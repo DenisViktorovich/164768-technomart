@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Денис Горшков](https://up.htmlacademy.ru/htmlcss/15/user/164768).
-* Наставник: `Неизвестно`.
+* Студент: Денис Горшков(https://up.htmlacademy.ru/htmlcss/15/user/164768).
+* Наставник: Гоша Егорян (https://htmlacademy.ru/profile/id85633).
 
 ---
 
